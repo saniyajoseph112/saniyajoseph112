@@ -1,5 +1,9 @@
-# Hi, I'm Saniya 👋
-I'm a software developer passionate about Python, Django, and React.
+# Hi, I'm Saniya 👋  
+🌸 Full Stack Developer  
+💻 Working on Django + React projects  
+🎯 Passionate about web apps, UI design, and e-commerce systems  
+📫 Reach me: josephsaniya671@gmail.com
+
 
 ## Skills
 - Python | Django | JavaScript | React.js
